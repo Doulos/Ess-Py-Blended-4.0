@@ -1,0 +1,13 @@
+# python 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+venv/
+
+# pytest 
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints

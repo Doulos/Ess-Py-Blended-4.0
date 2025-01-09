@@ -1,0 +1,10 @@
+pytest
+cffi
+numpy
+matplotlib
+pandas
+scikit-learn
+openpyxl
+notebook
+requests
+poetry
